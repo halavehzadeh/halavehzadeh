@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Summary:
 Passionate and results-driven Cloud Engineer with ten years of experience designing, implementing, and optimizing cloud solutions across AWS, Azure, and VMware platforms. Adept at translating complex technical concepts into actionable strategies, I thrive on tackling challenges and driving innovation in cloud infrastructure.
